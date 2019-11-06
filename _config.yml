@@ -6,14 +6,14 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-AU"
-title                    : "Fei Liu"
+locale                   : "Beijing-China"
+title                    : "Zihao Li"
 title_separator          : "-"
-name                     : &name "Fei Liu"
-description              : &description "PhD student in NLP at The University of Melbourne"
-url                      : https://liufly.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Zihao Li"
+description              : &description "2th-year M.S. student at The University of Chinese Academic of Science (UCAS)"
+url                      : https://PrideLee.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "liufly/liufly.github.io"
+repository               : "PrideLee/PrideLee.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
