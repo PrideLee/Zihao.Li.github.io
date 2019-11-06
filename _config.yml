@@ -78,13 +78,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Fei Liu"
+  name             : "Zihao Li"
   avatar           : "avatar.jpg" #"profile.png"
-  bio              : "PhD student in NLP at The University of Melbourne"
-  location         : "Melbourne, Australia"
+  bio              : "2th-year M.S. student at The University of Chinese Academic of Science (UCAS)"
+  location         : "Beijing, China"
   employer         :
-  googlescholar    : "https://scholar.google.com/citations?user=rzVW-fEAAAAJ&hl=en&citsig=AMstHGR6aN4QVq4TXUAFS-bznvOmplpzdA"
-  email            : "fliu3@student.unimelb.edu.au"
+  googlescholar    : 
+  email            : "lizihao182@mails.ucas.ac.cn"
   uri              :
   bitbucket        :
   codepen          :
@@ -92,22 +92,22 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "liufly"
+  github           : "PrideLee"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "fei-liu-unimelb"
-  orcid            : #"http://orcid.org/yourorcidurl"
+  linkedin         : 
+  orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
-  xing             :
+  xing             : 
   youtube          :
   wikipedia        :
 
