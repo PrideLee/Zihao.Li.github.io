@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "To be myself"
+title: "ZIHAO LI-M.S. of University of Chineses Academy of Science"
 permalink: /cv/
 author_profile: true
 redirect_from:
