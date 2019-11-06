@@ -44,14 +44,14 @@ Publications & Patents
 
 Projects and Compotetition Experience
 ======
-* **Sentiment Analysis**, Project of Deep Learning, Jun.2019
-** Constructing Transformer, text-CNN, and BiGRU+Attention models to analyze the sentiment of movie reviews.
-** Experiments show that CNN turned out to be less efficient on time sequence problems than RNN. While RNN generally takes much more time to train as it does not suit for parallel computation. Transformer proposes a novel approach to deal with NLP tasks. It turns out to have good results and much smoother than RNN.
+* [Sentiment Analysis](https://github.com/PrideLee/sentiment-analysis), Project of Deep Learning, Jun.2019
+ * Constructing Transformer, text-CNN, and BiGRU+Attention models to analyze the sentiment of movie reviews.
+ * Experiments show that CNN turned out to be less efficient on time sequence problems than RNN. While RNN generally takes much more time to train as it does not suit for parallel computation. Transformer proposes a novel approach to deal with NLP tasks. It turns out to have good results and much smoother than RNN.
 
-* **Repair strategy and Invulnerability Research of Complex Networks**, MCM Competition, May.2019
-** The model can provide alternative nodes geographical location information and connection methods when nodes are damaged seriously. Experiments show that the repair strategy can minimize the length of the communication path and ensure network connectivity effectively.
-** First, we calculate the geographical distance between each note based on the Great-circle formula and designing the shortest path connection scheme by the Prim algorithm. In addition, we apply grid search and genetic algorithm (GA) to optimize the path length and providing the alternative nodes numbers, geographical location information as well as connection method when the specified node's failure.
-** Furthermore, relying on the aforementioned research, we add the edges among key nodes, which were determined by the minimum connected dominating the set, to improve the connectivity of the network. Then, with the different number of failure nodes, we simulate the change of path length and connectivity of network with the different number of backup nodes and edges. Finally, considering the path length and network connectivity, we construct an optimal communication network.
+* [Repair strategy and Invulnerability Research of Complex Networks](https://github.com/PrideLee/The-Repair-strategy-and-Invulenrability-Research-of-Complex-Networks), MCM Competition, May.2019
+ * The model can provide alternative nodes geographical location information and connection methods when nodes are damaged seriously. Experiments show that the repair strategy can minimize the length of the communication path and ensure network connectivity effectively.
+ * First, we calculate the geographical distance between each note based on the Great-circle formula and designing the shortest path connection scheme by the Prim algorithm. In addition, we apply grid search and genetic algorithm (GA) to optimize the path length and providing the alternative nodes numbers, geographical location information as well as connection method when the specified node's failure.
+ * Furthermore, relying on the aforementioned research, we add the edges among key nodes, which were determined by the minimum connected dominating the set, to improve the connectivity of the network. Then, with the different number of failure nodes, we simulate the change of path length and connectivity of network with the different number of backup nodes and edges. Finally, considering the path length and network connectivity, we construct an optimal communication network.
 
 
 <!--
