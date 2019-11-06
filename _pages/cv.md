@@ -44,7 +44,7 @@ Publications & Patents
 
 Projects and Compotetition Experience
 ======
-* **[Sentiment Analysis](https://github.com/PrideLee/sentiment-analysis)**, Project of Deep Learning, Jun.2019
+* [**Sentiment Analysis**](https://github.com/PrideLee/sentiment-analysis), Project of Deep Learning, Jun.2019
   * Constructing Transformer, text-CNN, and BiGRU+Attention models to analyze the sentiment of movie reviews.
   * Experiments show that CNN turned out to be less efficient on time sequence problems than RNN. While RNN generally takes much more time to train as it does not suit for parallel computation. Transformer proposes a novel approach to deal with NLP tasks. It turns out to have good results and much smoother than RNN.
 
