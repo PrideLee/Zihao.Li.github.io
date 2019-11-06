@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "---------------------------------------------------"
+title: "To be myself"
 permalink: /cv/
 author_profile: true
 redirect_from:
