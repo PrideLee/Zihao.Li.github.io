@@ -9,19 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
-CV can be downloaded <a href="https://liufly.github.io/files/cv/cv.pdf"><u>here</u></a>
 
 Education
 ======
-* Ph.D in Computer Science (Natural Language Processing), The University of Melbourne, 2019 (expected)
-* M.Eng. Software Systems Engineering, The University of Melbourne, 2013
-* B.Eng. Computer Science, Beijing University of Technology, 2008
+* **M.S. in Aircraft Design** [Center for Space Utilization (CSU), CAS](http://www.csu.cas.cn/), [The University of Chinese Academic of Science (UCAS)](http://www.ucas.ac.cn/), Sep.2018-Present
+* **B.S. in Aircraft Manufacturing Engineering** [College of Mechatronics Engineering](http://jdgc.nuc.edu.cn/#tips), [The North University of Chinal](http://www.nuc.edu.cn/)
 
-Professional Experience
+Academic Experience
 ======
-* Research Intern at Facebook AI Research (Seattle, WA, USA), Sept, 2018–Jan, 2019
-  * Research Topic and Achievements: Coreference resolution, memory-enhanced deep learning models, paper accepted at ACL 2019
-  * Supervisors: <a href="https://www.cc.gatech.edu/~jeisenst/"><u>Jacob Eisenstein</u></a> and <a href="https://www.cs.washington.edu/people/faculty/lsz"><u>Luke Zettlemoyer</u></a>.
+* **Technology and Engineering Center for Space Utilization (CSU), CAS**, Aug.2017
+Reliability \& Product Assurance Center, visiting student
 
 * Research Assistant (Casual) at The University of Melbourne (Victoria, Australia), May, 2017–Aug, 2017
   * Research Duties: Responsible for implementing a bi-directional LSTM-CRF model for sequential tagging tasks in low-resource languages for the DARPA-funded LORELEI project in collaboration with CMU.
@@ -100,3 +97,6 @@ Professional Service
 * Reviewer for: EMNLP 2017, EMNLP 2018, CoNLL 2018, NAACL 2019, ACL 2019
 * PC member: <a href="https://peopleswksh.github.io/"><u>PEOPLES 2018</u></a>
 * Student volunteer: ACL 2018
+
+%CV can be downloaded <a href="https://liufly.github.io/files/cv/cv.pdf"><u>here</u></a>
+
