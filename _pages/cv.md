@@ -143,5 +143,5 @@ Publications
 -->
 
 
-**CV can be downloaded <a href="https://liufly.github.io/files/cv/cv.pdf"><u>here</u></a>**
+**CV can be downloaded <a href=""><u>here</u></a>**
 
