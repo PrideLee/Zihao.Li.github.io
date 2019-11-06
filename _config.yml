@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : "Zihao Li"
-  avatar           : "avatar.jpg" #"profile.png"
+  avatar           : "pl.png" #"profile.png"
   bio              : "2th-year M.S. student at The University of Chinese Academic of Science (UCAS)"
   location         : "Beijing, China"
   employer         :
@@ -107,10 +107,10 @@ author:
   twitter          : 
   vine             :
   weibo            :
-  xing             : "Li18635151327" 
+  xing             : 
   youtube          :
   wikipedia        :
-  zhihu            :"https://www.zhihu.com/people/peterlee-19-97"
+  zhihu            :"peterlee-19-97"
 
 
 # Reading Files
