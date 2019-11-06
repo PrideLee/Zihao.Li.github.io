@@ -10,13 +10,13 @@ redirect_from:
 {% include base_path %}
 
 
-Education
-======
+## Education
+
 * **M.S. in Aircraft Design** [Center for Space Utilization (CSU), CAS](http://www.csu.cas.cn/), [The University of Chinese Academic of Science (UCAS)](http://www.ucas.ac.cn/), Sep.2018-Present
 * **B.S. in Aircraft Manufacturing Engineering** [College of Mechatronics Engineering](http://jdgc.nuc.edu.cn/#tips), [The North University of Chinal](http://www.nuc.edu.cn/)
 
-Academic Experience
-======
+## Academic Experience
+
 * **Technology and Engineering Center for Space Utilization (CSU), CAS**, Aug.2017<br />
 Reliability & Product Assurance Center, visiting student
 
@@ -34,16 +34,16 @@ Graduation Practice, Aircraft Design Intern
 * **[Guoke Saisi Beijing Tech.co, Ltd.](https://www.cissdata.com/)**, Dec.2017-Aug.2018<br />
 Algorithm Engineer in Data Department
 
-Publications & Patents
-======
+## Publications & Patents
+
 [1] **Li Zihao.**  Electronic component data management system and method based on blockchain. China Patent Application [CN109450638A](http://pss-system.cnipa.gov.cn/sipopublicsearch/patentsearch/showViewList-jumpToView.shtml), March 08, 2019.
 
 [2] **Li Zihao.**  Alternative selection system and alternative selection method for electronic components. China Patent Application [CN109284420A](http://pss-system.cnipa.gov.cn/sipopublicsearch/patentsearch/showViewList-jumpToView.shtml), January 29, 2019.
 
 [3] **Li Zihao.**  Form recognition method, recognition system and computer device. China Patent Application [CN109086714A](http://pss-system.cnipa.gov.cn/sipopublicsearch/patentsearch/showViewList-jumpToView.shtml), Dec 25, 2018.
 
-Projects and Compotetition Experience
-======
+## Projects and Compotetition Experience
+
 * [**Sentiment Analysis**](https://github.com/PrideLee/sentiment-analysis), Project of Deep Learning, Jun.2019
   * Constructing Transformer, text-CNN, and BiGRU+Attention models to analyze the sentiment of movie reviews.
   * Experiments show that CNN turned out to be less efficient on time sequence problems than RNN. While RNN generally takes much more time to train as it does not suit for parallel computation. Transformer proposes a novel approach to deal with NLP tasks. It turns out to have good results and much smoother than RNN.
@@ -88,33 +88,33 @@ Projects and Compotetition Experience
   * Based on the psychological model and fuzzy mathematics, we build a membership function to reflect the relation between subsides and driver, passenger satisfaction. Furthermore, we also consider companies' costs to adjust and optimize the subsidy aimed at rush hour and remote areas. Our subsidy scheme can balance the benefit of drivers, passengers, and software companies well.
   
 
-Selected Honors & Awards
-======
-Competition Awards
-------
+## Selected Honors & Awards
+
+### Competition Awards
+
 * Oct.2017, **2nd Award**, National Undergraduate Electronic Design Contest
 * Aug.2017, **Excellence Award**, The 11th National College Student Mechanics Competition
 * Jan.2017, **onorable Mention**, Mathematical Contest in Modeling (Intrenational)
 * Nov.2016, **2nd Award**, Mathematical Contest in Modeling (China)
 * Nov.2015, **First Prize**, The 7th National College Student Mathematical Competition
 
-Scholarship
--------
+### Scholarship
+
 * Jun.2018, **First Class**, Outstanding Graduate Scholarship
 * Jan.2017, **First Class**, Hubei Chamber of Commerce Encouragement Scholarship
 * Oct.2016, **First Class**, Comprehensive Quality Scholarship
 * Oct.2015, **First Class**, National College Student Mathmatical Competition Scholarship
 
-Skills
-======
+## Skills
+
 * Programming: Python, C/C++, Matlab
 * Data Processing & Database: SPSS Clementine, MySQL, Excel
 * Computer-Aided Design and Modeling: AutoCAD, ProE, SolidWorks
 * SCM Development and Circuit Design: STM32F4, STC89C52RC, Altium Designer
 * Others: LINGO, Git, LaTeX, Adobe Photoshope, Adobe Captivate
 
-Languages
-======
+## Languages
+
 * English: TOEFL, Preparing
 * Chinese: Native or Bilingual Proficiency
 
