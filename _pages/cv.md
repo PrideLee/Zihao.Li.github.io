@@ -20,25 +20,25 @@ Academic Experience
 * **Technology and Engineering Center for Space Utilization (CSU), CAS**, Aug.2017<br />
 Reliability \& Product Assurance Center, visiting student
 
-* Research Assistant (Casual) at The University of Melbourne (Victoria, Australia), May, 2017–Aug, 2017
-  * Research Duties: Responsible for implementing a bi-directional LSTM-CRF model for sequential tagging tasks in low-resource languages for the DARPA-funded LORELEI project in collaboration with CMU.
+* **Xian Jiaotong University - School of Aerospace Engineering**, Aug.2017<br />
+Excellent College Students Summer School, visiting student
 
-* Research Intern at Xerox Research Centre Europe (Grenoble, France), May, 2016–Oct, 2016:
-  * Research Topic and Achievements: Memory Networks, deep learning approach for personality trait recognition, 3 papers accepted at EACL 2017
-  * Supervisors: <a href="http://www.nowson.com/"><u>Scott Nowson</u></a>, Julien Perez
-  
+* **Nationl Space Science Center (NSSC), CAS**, Aug.2017<br />
+"One Space, One Dream" Excellent College Students Summer School, visiting student
 
-* Research Assistant (Casual) at Royal Melbourne Institute of Technology(Victoria, Australia), Sept, 2014–Feb, 2015: 
-  * Detailed Achievements: Customized Search Engine for Industry Partner. Managed to increase the accuracy of the query boundary detection process by 10% by applying machine learning techniques. Significantly improved the performance of the search engine (F-score from less than 10 to around 55 by boosting precision substantially and factoring in translation probabilities to detect paraphrases).
-  * Supervisor: <a href="http://www.xiuzhenzhang.org/"><u>Xiuzhen Zhang</u></a>
+Internship Experience
+======
+* **[Aviation Industry Corporation of China (AVIC) - Xian Aircraft industry (Group) Company, LTD](http://www.avic.com/)**, Sep.2017<br />
+Graduation Practice, Aircraft Design Intern
 
-* Research Assistant (Casual) at The University of Melbourne (Victoria, Australia), Sept, 2014–Dec, 2014: 
+* **[Guoke Saisi Beijing Tech.co, Ltd.](https://www.cissdata.com/)**, Dec.2017-Aug.2018<br />
+Algorithm Engineer in Data Department
 
-* Software Engineer at Hitachi Government & Public Corporation System Engineering, Ltd. (Tokyo, Japan), Oct, 2008–June, 2012:
-  * Participated (as a core developer) in the development of the GOOD-DESIGN-AWARD-winning and KIDS-DESIGN-AWARD-winning web application named ZoomSight (No.1 in market share), a Japanese NLP web application for the vision impaired, capable of adding phonetic scripts to and reading the contents of HTML pages
+Publications & Patents
+======
+[1] **Li Zihao.**  Electronic component data management system and method based on blockchain. China Patent Application CN109450638A, March 08, 2019.
 
-* Software Engineer (Intern) at Hitachi Beijing Tech Information Systems Co., Ltd. (Beijing, China), Feb, 2008–Aug, 2008:
-
+<!--
 Awards and Additional Certificates
 ======
 * Sept, 2018: <a href="http://ictir2018.org/stg.html#award"><u>ICTIR 2018 Best Short Paper Award</u></a>
@@ -97,6 +97,7 @@ Professional Service
 * Reviewer for: EMNLP 2017, EMNLP 2018, CoNLL 2018, NAACL 2019, ACL 2019
 * PC member: <a href="https://peopleswksh.github.io/"><u>PEOPLES 2018</u></a>
 * Student volunteer: ACL 2018
+-->
 
 %CV can be downloaded <a href="https://liufly.github.io/files/cv/cv.pdf"><u>here</u></a>
 
