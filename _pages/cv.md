@@ -17,7 +17,7 @@ Education
 
 Academic Experience
 ======
-* **Technology and Engineering Center for Space Utilization (CSU), CAS**, Aug.2017
+* **Technology and Engineering Center for Space Utilization (CSU), CAS**, Aug.2017<br />
 Reliability \& Product Assurance Center, visiting student
 
 * Research Assistant (Casual) at The University of Melbourne (Victoria, Australia), May, 2017–Aug, 2017
