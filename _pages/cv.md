@@ -75,83 +75,64 @@ Projects and Compotetition Experience
 * [Plate-and-Ball Control System](https://github.com/PrideLee/Plate-and-Ball-control-system), Electronic Design Contest, Aug.2017
   * Based on steering engine control technology, PID (proportional plus integral plus derivative) control algorithm, images processing technology and single-chip development, we designed and achieved a plate-and-ball control system, which collects the ball position and motion information by a camera, as actuator, linkage mechanism  driven by steering engine controls tilts the plate, then controlling the ball to finish specific motion.
   * The hardware includes camera support, STM32F4, steering engine, OV7670 camera, linkage, keyboard, and DC power supply.
-	* The system adopts a single loop PID control strategy, the camera collects the real position information then calculating the position deviation. Based on it, we utilize the PID algorithm to get the duty cycle of PWM, through this signal to drive the steering engine. Therefore, we can control the tilt of the plate to plan the motion track of the ball.  
+  * The system adopts a single loop PID control strategy, the camera collects the real position information then calculating the position deviation. Based on it, we utilize the PID algorithm to get the duty cycle of PWM, through this signal to drive the steering engine. Therefore, we can control the tilt of the plate to plan the motion track of the ball.  
   
 * [Wind-Pendulum](https://github.com/PrideLee/Wind-Pendulum), Electronic Design Contest, Jul.2017
   * We design a wind-pendulum, through controlling four blades' rotate speed to realize specific motion of wind-pendulum, such as line, circle, Lissajous figure, cardioid, etc.
   * The hardware include STM32F103, swing rod, cardan joint, laser pointer, keyboard, BLDC, propeller, MPU6050, and DC power supply.
-	* Using MPU6050 measures the pendulum angle, then we calculate the position of BLDC by the trigonometric formula. Based on the deviation of the position, the PID algorithm outputs the duty cycle of PWM to control the motion of wind-pendulum.
+  * Using MPU6050 measures the pendulum angle, then we calculate the position of BLDC by the trigonometric formula. Based on the deviation of the position, the PID algorithm outputs the duty cycle of PWM to control the motion of wind-pendulum.
   
-* ["Internent+" Based Subsidy Scheme  Optimization of Ridesharing](https://github.com/PrideLee/Wind-Pendulum), MCM Competition, Sep.2016
+* ["Internent+" Based Subsidy Scheme  Optimization of Ridesharing](https://github.com/PrideLee/The-subsidy-scheme-of-DiDi), MCM Competition, Sep.2016
   * With internet technology developed rapidly, many ridesharing apps were developed nowadays. Hence, optimizing subsidy and dispatch schemes of taxies will be helpful to ease the difficulty of hailing taxies.
   * Taking Shenzhen as a sample, we crawled taxies driving information from ridesharing websites. Besides, we defined supply and demand ratio of taxies, taxi ownership (ten thousand people), and the empty-loaded rate to investigate the matching degree between taxi sources and public requirements in the different time and geographical locations.
-	* Based on the psychological model and fuzzy mathematics, we build a membership function to reflect the relation between subsides and driver, passenger satisfaction. Furthermore, we also consider companies' costs to adjust and optimize the subsidy aimed at rush hour and remote areas. Our subsidy scheme can balance the benefit of drivers, passengers, and software companies well.
-  
-  
-  
+  * Based on the psychological model and fuzzy mathematics, we build a membership function to reflect the relation between subsides and driver, passenger satisfaction. Furthermore, we also consider companies' costs to adjust and optimize the subsidy aimed at rush hour and remote areas. Our subsidy scheme can balance the benefit of drivers, passengers, and software companies well.
   
 
-
-
-<!--
-Awards and Additional Certificates
+Selected Honors & Awards
 ======
-* Sept, 2018: <a href="http://ictir2018.org/stg.html#award"><u>ICTIR 2018 Best Short Paper Award</u></a>
-* Dec, 2017: <a href="http://alta2017.alta.asn.au/index.html"><u>ALTA 2017 Best Poster Award</u></a>
-* Nov, 2017: ALTA 2017 Student Scholarship
-* Oct, 2017: Google PhD Travel Scholarship Award
-* July, 2017: Best Paper Award, 5th Annual Doctoral Colloquium, School of Computing and Information Systems, The University of Melbourne
-* Apr, 2017: Conference Travel Scholarship, The University of Melbourne
-* Mar, 2017: Winning Team of Electronic Trading Challenge Hackathon
-* Sept, 2016: Best Intern Presentation Award, Xerox Research Centre Europe
-* July, 2016: SIGIR Travel Scholarship
-* May, 2016: 3rd Prize, <a href="https://news.microsoft.com/en-au/2016/05/11/melbourne-university-holds-data-scientist-hackathon/"><u>Microsoft Data Science Student Challenge Hackathon</u></a>
-* Feb, 2015 - Present: Australian Postgraduate Awards (APA Scholarship)
-* Mar, 2013: IELTS Overall: 8.5/9.0 (listening: 8.5/9.0, reading: 9.0/9.0, sriting: 8.5/9.0, speaking: 7.0/9.0)
-* Apr, 2011: Oracle Certified Professional, Java SE 6 Programmer
-* Dec, 2009: Japanese Language Proficiency Test, Level 1 (Top Level)-->
+Competition Awards
+------
+* Oct.2017, **2nd Award**, National Undergraduate Electronic Design Contest
+* Aug.2017, **Excellence Award**, The 11th National College Student Mechanics Competition
+* Jan.2017, **onorable Mention**, Mathematical Contest in Modeling (Intrenational)
+* Nov.2016, **2nd Award**, Mathematical Contest in Modeling (China)
+* Nov.2015, **First Prize**, The 7th National College Student Mathematical Competition
+
+Scholarship
+-------
+* Jun.2018, **First Class**, Outstanding Graduate Scholarship
+* Jan.2017, **First Class**, Hubei Chamber of Commerce Encouragement Scholarship
+* Oct.2016, **First Class**, Comprehensive Quality Scholarship
+* Oct.2015, **First Class**, National College Student Mathmatical Competition Scholarship
 
 Skills
 ======
-* Primary language: Python, Java
-* Knowledge of: TensorFlow, Keras, Theano, LATEX, Linux
-* Development tools: VS Code, Eclipse, Git, SVN
+* Programming: Python, C/C++, Matlab
+* Data Processing & Database: SPSS Clementine, MySQL, Excel
+* Computer-Aided Design and Modeling: AutoCAD, ProE, SolidWorks
+* SCM Development and Circuit Design: STM32F4, STC89C52RC, Altium Designer
+* Others: LINGO, Git, LaTeX, Adobe Photoshope, Adobe Captivate
 
 Languages
 ======
 * English: TOEFL, Preparing
 * Chinese: Native or Bilingual Proficiency
 
+<!--
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+-->
 
 <!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
-
-Patents
-======
-Julien Perez, Scott Nowson, Fei Liu. Author personality trait recognition from short texts with a deep compositional learning approach. US10049103B2 (granted).
-
-Julien Perez, Fei Liu, Scott Nowson. Gated end-to-end memory network. US20180232152A1 (application).
-
-Professional Service
-======
-* Reviewer for: EMNLP 2017, EMNLP 2018, CoNLL 2018, NAACL 2019, ACL 2019
-* PC member: <a href="https://peopleswksh.github.io/"><u>PEOPLES 2018</u></a>
-* Student volunteer: ACL 2018
 -->
+
 
 %CV can be downloaded <a href="https://liufly.github.io/files/cv/cv.pdf"><u>here</u></a>
 
