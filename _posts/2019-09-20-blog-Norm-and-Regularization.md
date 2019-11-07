@@ -8,4 +8,4 @@ tags:
   - Training trick
 ---
 
-In oreder to alleviate the problem of over-fitting, we have to apply regularization operation for machine learning algorithms. The most common strategy is to add norm operation to constraint the values' distributation of parameters. You can click [**here**](https://zhuanlan.zhihu.com/p/51673764) to read full blog.
+In oreder to alleviate the problem of over-fitting, we have to apply regularization operation for machine learning algorithms. The most common strategy is to add norm operation to constraint the values' distributation of parameters. You can click [**here**](https://zhuanlan.zhihu.com/p/51673764) and [**here**](https://github.com/PrideLee/Machine-Learning-Notes/tree/master/Machine%20Learning/Norm%20and%20Normalization) to read full blog.
