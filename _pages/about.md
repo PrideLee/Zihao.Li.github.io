@@ -1,16 +1,14 @@
 ---
 permalink: /
-title: "Fei Liu - The University of Melbourne"
-excerpt: "Fei Liu - The University of Melbourne"
+title: "Zihao Li - The University of Chinese Academy of Sciences"
+excerpt: "Zihao Li - The University of Chinese Academy of Sciences"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a (final-year) PhD student in natural language processing at The University of Melbourne under the supervision of [Tim Baldwin](https://people.eng.unimelb.edu.au/tbaldwin/) and [Trevor Cohn](http://people.eng.unimelb.edu.au/tcohn/).
-
-Currently, I am doing an internship at [Facebook AI Research (FAIR)](https://research.fb.com/category/facebook-ai-research/) in Seattle, WA, working with [Jacob Eisenstein](https://www.cc.gatech.edu/~jeisenst/) and [Omer Levy](https://levyomer.wordpress.com/).
+I am a 2th-year M.S. student in aircraft design at [Technology and Engineering Center for Space Utilization (CSU), CAS](http://www.csu.cas.cn/) at [The University of Chinese Academic of Science (UCAS)](http://www.ucas.ac.cn/), advised by [Wei Dang](http://people.ucas.ac.cn/~0052921). My research interests are in Data Mining, Machine Learining and Optimization for Production Process. 
 
 
 
