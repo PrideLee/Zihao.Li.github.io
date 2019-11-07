@@ -1,6 +1,6 @@
 ---
 title: 'YOLO series for Object Detection'
-date: 2019-11-04
+date: 2019-05-21
 permalink: /posts/2019/05/blog-YOLO-Series/
 tags:
   - Deep Learning
