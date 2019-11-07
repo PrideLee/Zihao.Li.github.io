@@ -9,4 +9,4 @@ tags:
   - Classification and Regression
 ---
 
-As a powerful model in Kaggle and others' data mining contests, XGBoost has been the first choice for many classification tasks. In this blog i will introduce this model comprehensively. You can click [**here**](https://zhuanlan.zhihu.com/p/51666869) and [**here**](https://github.com/PrideLee/Machine-Learning-Notes/tree/master/Machine%20Learning/XGBoost) to read full blog.
+As a powerful model in Kaggle and others' data mining contests, XGBoost has been the first choice for many classification tasks. In this blog i will introduce this model comprehensively. You can click [**here**](https://zhuanlan.zhihu.com/p/51666869) and [**here**](https://pridelee.github.io/files/blog/XGBoost.pdf) to read full blog.
