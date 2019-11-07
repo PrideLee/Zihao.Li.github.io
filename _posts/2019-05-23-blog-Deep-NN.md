@@ -7,4 +7,4 @@ tags:
   - Machine Learning
 ---
 
-In this blog I will introduce Deep Neural Network history and some mailstone works such as AlexNet, ResNet, GAN and CapsNet. You can click [**here**](https://zhuanlan.zhihu.com/p/47926337) and [**here**](https://github.com/PrideLee/Machine-Learning-Notes/tree/master/Machine%20Learning/Deep%20Networks) to read full blog. 
+In this blog I will introduce Deep Neural Network history and some mailstone works such as AlexNet, ResNet, GAN and CapsNet. You can click [**here**](https://zhuanlan.zhihu.com/p/47926337) and [**here**](https://pridelee.github.io/files/blog/Deep_Network.pdf) to read full blog. 
