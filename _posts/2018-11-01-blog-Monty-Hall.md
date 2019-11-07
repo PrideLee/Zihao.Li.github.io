@@ -7,4 +7,4 @@ tags:
   - Statistics
 ---
 
-As a famous paradox in statistics, Monty Hall Problem always perplex many researchers, In this blog I support three methodes to explain this problem. You can click [**here**](https://zhuanlan.zhihu.com/p/48254298) and [**here**](https://github.com/PrideLee/Machine-Learning-Notes/tree/master/Machine%20Learning/Monty%20Hall%20Problem) to read full blog.
+As a famous paradox in statistics, Monty Hall Problem always perplex many researchers, In this blog I support three methodes to explain this problem. You can click [**here**](https://zhuanlan.zhihu.com/p/48254298) and [**here**](https://pridelee.github.io/files/blog/Monty-Hall-Problem.pdf) to read full blog.
