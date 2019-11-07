@@ -7,4 +7,4 @@ tags:
   - NLP
 ---
 
-In this blog i will introduce the basic concepts and deep neural networks which includes word vectory, RNN, LSTM, Encoder-Decoder, Attention, Transformer, etc. You can click [**here**](https://zhuanlan.zhihu.com/p/50915723) and [**here**](https://github.com/PrideLee/Machine-Learning-Notes/tree/master/Machine%20Learning/RNN-LSTM-Encoder_Decoder-Motivation-Machine%20translation) to read full blog.
+In this blog i will introduce the basic concepts and deep neural networks which includes word vectory, RNN, LSTM, Encoder-Decoder, Attention, Transformer, etc. You can click [**here**](https://zhuanlan.zhihu.com/p/50915723) and [**here**](https://pridelee.github.io/files/blog/RNN-Transformer.pdf) to read full blog.
