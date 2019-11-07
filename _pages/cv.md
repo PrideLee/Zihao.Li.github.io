@@ -142,6 +142,5 @@ Publications
   {% endfor %}</ul>
 -->
 
-
-**CV can be downloaded <a href="https://github.com/PrideLee/PrideLee.github.io/blob/master/files/cv/ZihaoLi_cv.pdf"><u>here</u></a>**
+**CV can be downloaded <a href="https://PrideLee.github.io/files/cv/cv.pdf"><u>here</u></a>**
 
