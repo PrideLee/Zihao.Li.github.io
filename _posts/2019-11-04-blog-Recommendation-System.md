@@ -7,4 +7,4 @@ tags:
   - Object Detection
 ---
 
-Recommendation System is a super pupular research regions in data mining and information retrival. In addition, it has been fully proved that matrix factorization is an essential model for RS in [**Netflix Prize**](https://www.netflixprize.com/). In this blog i will introduct recommendation system generally and some matrix factorization methodes deteiled. 
+Recommendation System is a super pupular research regions in data mining and information retrival. In addition, it has been fully proved that matrix factorization is an essential model for RS in [**Netflix Prize**](https://www.netflixprize.com/). In this blog i will introduct recommendation system generally and some matrix factorization methodes deteiled. You can click [**here**](https://zhuanlan.zhihu.com/p/53648248) to read full Blog.
