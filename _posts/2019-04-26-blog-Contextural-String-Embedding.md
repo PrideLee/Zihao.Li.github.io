@@ -7,4 +7,4 @@ tags:
   - NL
 ---
 
-As a classic task in NLP, many problem can be considered as Sequence Labeling tast, such as Named Entity Recognition. Based on contextual string embedding, this model achieve the state-of-art. You can click [**here**](https://zhuanlan.zhihu.com/p/63746935) and [**here**](https://github.com/PrideLee/Machine-Learning-Notes/tree/master/Machine%20Learning/Contextual%20word%20embedding) to read full blog. 
+As a classic task in NLP, many problem can be considered as Sequence Labeling tast, such as Named Entity Recognition. Based on contextual string embedding, this model achieve the state-of-art. You can click [**here**](https://zhuanlan.zhihu.com/p/63746935) and [**here**](https://pridelee.github.io/files/blog/context-string-embedding-for-sequence labeling.pdf)) to read full blog. 
