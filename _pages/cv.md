@@ -116,16 +116,16 @@ Algorithm Engineer in Data Department
 
 ## Skills
 
-* Programming: Python, C/C++, Matlab
-* Data Processing & Database: SPSS Clementine, MySQL, Excel
-* Computer-Aided Design and Modeling: AutoCAD, ProE, SolidWorks
-* SCM Development and Circuit Design: STM32F4, STC89C52RC, Altium Designer
-* Others: LINGO, Git, LaTeX, Adobe Photoshope, Adobe Captivate
+* **Programming**: Python, C/C++, Matlab
+* **Data Processing & Database**: SPSS Clementine, MySQL, Excel
+* **Computer-Aided Design and Modeling**: AutoCAD, ProE, SolidWorks
+* **SCM Development and Circuit Design**: STM32F4, STC89C52RC, Altium Designer
+* **Others**: LINGO, Git, LaTeX, Adobe Photoshope, Adobe Captivate
 
 ## Languages
 
-* English: TOEFL, Preparing
-* Chinese: Native or Bilingual Proficiency
+* **English**: TOEFL, Preparing
+* **Chinese**: Native or Bilingual Proficiency
 
 <!--
 Publications
