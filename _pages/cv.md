@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "ZIHAO LI-M.S. of University of Chineses Academy of Science"
+title: "Zihao Li-M.S. of University of Chineses Academy of Science"
 permalink: /cv/
 author_profile: true
 redirect_from:
