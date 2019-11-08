@@ -53,7 +53,7 @@ Algorithm Engineer in Data Department
 
 ## Projects and Compotetition Experience
 
-**If you want to know more about these projects, please browse my [**github**](https://github.com/PrideLee).**
+**If you want to know more about these projects, please browse my <a href="https://github.com/PrideLee"><u>github</u></a>.**
 
 * [**Sentiment Analysis**](https://github.com/PrideLee/sentiment-analysis), Project of Deep Learning, Jun.2019
   * Constructing Transformer, text-CNN, and BiGRU+Attention models to analyze the sentiment of movie reviews.
