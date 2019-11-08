@@ -109,7 +109,7 @@ Algorithm Engineer in Data Department
 
 ### Scholarship
 
-* Jun.2018, **First Class**, Outstanding Graduate Scholarship
+<!-- * Jun.2018, **First Class**, Outstanding Graduate Scholarship -->
 * Jan.2017, **First Class**, Hubei Chamber of Commerce Encouragement Scholarship
 * Oct.2016, **First Class**, Comprehensive Quality Scholarship
 * Oct.2015, **First Class**, National College Student Mathmatical Competition Scholarship
