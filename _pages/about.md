@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a 2th-year M.S. student in aircraft design at [Technology and Engineering Center for Space Utilization (CSU), CAS](http://www.csu.cas.cn/) at [The University of Chinese Academic of Science (UCAS)](http://www.ucas.ac.cn/), advised by [Wei Dang](http://people.ucas.ac.cn/~0052921). My research interests are in Data Mining, Machine Learining and Optimization for Production Process. 
+I am a 2th-year M.S. student in aircraft design at the [Technology and Engineering Center for Space Utilization (CSU), CAS](http://www.csu.cas.cn/) at [The University of Chinese Academic of Science (UCAS)](http://www.ucas.ac.cn/), advised by [Wei Dang](http://people.ucas.ac.cn/~0052921). My research interests are in Data Mining, Machine Learning and Optimization for the Production Process. 
 
 
 
