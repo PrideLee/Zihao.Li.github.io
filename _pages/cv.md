@@ -45,11 +45,11 @@ Algorithm Engineer in Data Department
 
 ## Publications & Patents
 
-[1] **Li Zihao.**  Electronic component data management system and method based on blockchain. China Patent Application [CN109450638A](http://pss-system.cnipa.gov.cn/sipopublicsearch/patentsearch/showViewList-jumpToView.shtml), March 08, 2019.
+[1] **Li Zihao.**  Electronic component data management system and method based on blockchain. China Patent Application [**CN109450638A**](https://pridelee.github.io/files/papers/CN102018001236595CN00001094506380APDFZH20190308CN00K.PDF), March 08, 2019.
 
-[2] **Li Zihao.**  Alternative selection system and alternative selection method for electronic components. China Patent Application [CN109284420A](http://pss-system.cnipa.gov.cn/sipopublicsearch/patentsearch/showViewList-jumpToView.shtml), January 29, 2019.
+[2] **Li Zihao.**  Alternative selection system and alternative selection method for electronic components. China Patent Application [**CN109284420A**](https://pridelee.github.io/files/papers/CN102018001010713CN00001092844200APDFZH20190129CN000.PDF), January 29, 2019.
 
-[3] **Li Zihao.**  Form recognition method, recognition system and computer device. China Patent Application [CN109086714A](http://pss-system.cnipa.gov.cn/sipopublicsearch/patentsearch/showViewList-jumpToView.shtml), Dec 25, 2018.
+[3] **Li Zihao.**  Form recognition method, recognition system and computer device. China Patent Application [**CN109086714A**](https://pridelee.github.io/files/papers/CN102018000857609CN00001090867140APDFZH20181225CN001.PDF), Dec 25, 2018.
 
 ## Projects and Compotetition Experience
 
