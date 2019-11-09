@@ -53,9 +53,7 @@ Algorithm Engineer in Data Department
 
 ## Projects and Compotetition Experience
 
-**If you want to know more about these projects, please browse my <a href="https://github.com/PrideLee"><u>github</u></a>.**
-
-* [**Sentiment Analysis**](https://github.com/PrideLee/sentiment-analysis), Project of Deep Learning, Jun.2019
+* <a href="https://github.com/PrideLee/sentiment-analysis"><u>Sentiment Analysis</u></a>, Project of Deep Learning, Jun.2019
   * Constructing Transformer, text-CNN, and BiGRU+Attention models to analyze the sentiment of movie reviews.
   * Experiments show that CNN turned out to be less efficient on time sequence problems than RNN. While RNN generally takes much more time to train as it does not suit for parallel computation. Transformer proposes a novel approach to deal with NLP tasks. It turns out to have good results and much smoother than RNN.
 
@@ -97,7 +95,10 @@ Algorithm Engineer in Data Department
   * With internet technology developed rapidly, many ridesharing apps were developed nowadays. Hence, optimizing subsidy and dispatch schemes of taxies will be helpful to ease the difficulty of hailing taxies.
   * Taking Shenzhen as a sample, we crawled taxies driving information from ridesharing websites. Besides, we defined supply and demand ratio of taxies, taxi ownership (ten thousand people), and the empty-loaded rate to investigate the matching degree between taxi sources and public requirements in the different time and geographical locations.
   * Based on the psychological model and fuzzy mathematics, we build a membership function to reflect the relation between subsides and driver, passenger satisfaction. Furthermore, we also consider companies' costs to adjust and optimize the subsidy aimed at rush hour and remote areas. Our subsidy scheme can balance the benefit of drivers, passengers, and software companies well.
-  
+
+
+**If you want to know more about these projects, please browse my <a href="https://github.com/PrideLee"><u>github</u></a>.**
+
 
 ## Selected Honors & Awards
 
