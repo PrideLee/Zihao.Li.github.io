@@ -37,7 +37,7 @@ Graduation Practice, Aircraft Design Intern
   * Assembly process design and optimization of aircraft landing gear.
   * Organize and summarize technical documentation of aircraft design and manufacture.
 
-* **[Guoke Saisi Beijing Tech.co, Ltd.](https://www.cissdata.com/)**, Dec.2017-Aug.2018<br />
+* **[Guoke Saisi Beijing Tech.Co, Ltd.](https://www.cissdata.com/)**, Dec.2017-Aug.2018<br />
 Algorithm Engineer in Data Department
   * Electronic components' alternative algorithm research.
   * Bill of Material (BOM) optimization and recommendation.
