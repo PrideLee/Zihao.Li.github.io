@@ -106,7 +106,7 @@ Algorithm Engineer in Data Department
 
 * Oct.2017, **2nd Award**, National Undergraduate Electronic Design Contest
 * Aug.2017, **Excellence Award**, The 11th National College Student Mechanics Competition
-* Jan.2017, **onorable Mention**, Mathematical Contest in Modeling (Intrenational)
+* Jan.2017, **Honorable Mention**, Mathematical Contest in Modeling (Intrenational)
 * Nov.2016, **2nd Award**, Mathematical Contest in Modeling (China)
 * Nov.2015, **First Prize**, The 7th National College Student Mathematical Competition
 
@@ -145,5 +145,5 @@ Publications
   {% endfor %}</ul>
 -->
 
-**CV can be downloaded <a href="https://pridelee.github.io/files/cv/cv.pdf"><u>here</u></a>**
+**CV can be downloaded <a href="https://pridelee.github.io/files/cv/cv.pdf"><u>here</u></a>.**
 
