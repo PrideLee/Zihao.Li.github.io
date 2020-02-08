@@ -1,1 +1,1 @@
-The repository to save blogs
+The repository is to save blogs
