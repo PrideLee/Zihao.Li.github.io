@@ -16,7 +16,6 @@ citation: '<b>Li Zihao</b> <a href="https://pridelee.github.io/files/papers/CN10
   booktitle = {China Patent Application CN109450638A},
   year      = {2018},
   address   = {China},
-  pages     = {}
 }
 ```
 
