@@ -119,5 +119,5 @@ Publications
   {% endfor %}</ul>
 -->
 
-**CV can be downloaded <a href="https://pridelee.github.io/files/cv/cv.pdf"><u>here</u></a>.**
+**CV can be downloaded in <a href="https://pridelee.github.io/files/cv/resume_cv.pdf"><u>here</u></a>.**
 
