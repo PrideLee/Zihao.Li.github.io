@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Zihao Li-M.S. of University of Chineses Academy of Science"
-permalink: /cv_2/
+permalink: /2_cv/
 author_profile: true
 redirect_from:
   - /resume
