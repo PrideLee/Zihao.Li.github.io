@@ -10,11 +10,11 @@ citation: '<b>Li Zihao</b> <a href="https://pridelee.github.io/files/papers/CN10
 ---
 
 ```
-@InProceedings{Liu+:2019,
+@InProceedings{Li+:2018,
   author    = {Li Zihao},
   title     = {Form recognition method, recognition system and computer device},
   booktitle = {China Patent Application CN109450638A},
-  year      = {2019},
+  year      = {2018},
   address   = {China},
   pages     = {}
 }
