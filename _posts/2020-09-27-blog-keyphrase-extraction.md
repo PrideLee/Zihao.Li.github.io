@@ -8,4 +8,4 @@ tags:
   - Surprised \& Unsurprised
 ---
 
-Literature report: Automatic Keyphrase Extraction: A Survey of the State of the Art. You can click [**here**](https://zhuanlan.zhihu.com/p/48254298) and [**here**](https://pridelee.github.io/files/blog/Keyphrase-Extraction-Review.pdf) to read full blog.
+Literature report: Automatic Keyphrase Extraction: A Survey of the State of the Art. You can click [**here**](https://zhuanlan.zhihu.com/p/258966461) and [**here**](https://pridelee.github.io/files/blog/Keyphrase-Extraction-Review.pdf) to read full blog.
