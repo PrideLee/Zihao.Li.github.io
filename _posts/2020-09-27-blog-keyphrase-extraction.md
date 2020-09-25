@@ -1,6 +1,6 @@
 ---
 title: 'Keyphrase Extraction: A Survey of the State of the Art'
-date: 2018-11-01
+date: 2020-09-28
 permalink: /posts/2020/09/blog-Keyphrase-Extraction/
 tags:
   - Keyphrase Extraction
