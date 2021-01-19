@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "[Beijing-China](https://www.google.com/maps/d/u/0/viewer?hl=en&ie=UTF8&msa=0&ll=39.979224654008725%2C116.46803799999999&spn=0.192312%2C0.293369&source=embed&mid=1YArJNO294GapT-0NDpTqxx77QEI&z=11)"
+locale                   : "Beijing-China"
 title                    : "Zihao Li"
 title_separator          : "-"
 name                     : &name "Zihao Li"
@@ -15,7 +15,7 @@ url                      : https://PrideLee.github.io # the base hostname & prot
 baseurl                  : '' # the subpath of your site, e.g. "/blog"
 repository               : "PrideLee/PrideLee.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
-breadcrumbs              : false # true, false (default)
+breadcrumbs              : true # true, false (default)
 words_per_minute         : 160
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 comments:
@@ -80,8 +80,8 @@ analytics:
 author:
   name             : "Zihao Li"
   avatar           : "pl.jpg" #"profile.png"
-  bio              : "2th-year M.S. student at The University of Chinese Academic of Science (UCAS)"
-  location         : "Beijing, China"
+  bio              : "3th-year M.S. student at The University of Chinese Academic of Science (UCAS)"
+  location         : "[Beijing, China](https://www.google.com/maps/d/u/0/viewer?hl=en&ie=UTF8&msa=0&ll=39.979224654008725%2C116.46803799999999&spn=0.192312%2C0.293369&source=embed&mid=1YArJNO294GapT-0NDpTqxx77QEI&z=11)"
   employer         :
   googlescholar    : 
   email            : "lizihao182@mails.ucas.ac.cn"
@@ -107,7 +107,7 @@ author:
   twitter          : 
   vine             :
   weibo            :
-  xing             : 
+  zhihu            : "https://www.zhihu.com/people/peterlee-19-97" 
   youtube          :
   wikipedia        :
 
