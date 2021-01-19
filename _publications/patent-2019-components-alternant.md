@@ -4,8 +4,8 @@ collection: publications
 permalink: /publication/patent-2019-components-alternant
 date: 2019-01-29
 venue: 'China Patent Application CN109086714A'
-paperurl: 'http://pss-system.cnipa.gov.cn/sipopublicsearch/insearch/showViewList.shtml'
-paperurltext: 'Link to CNIPA'
+paperurl: 'https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=SCPD&dbname=SCPD2020&filename=CN109284420B&v=gFmqaNDDQyBDKkih47eEjJ21RMmcwVcaDc0AEOXaAiRdiCOll1J1Bnhuj0X4vNZA'
+paperurltext: 'Link to CNKI'
 citation: '<b>Li Zihao</b> <a href="https://pridelee.github.io/files/papers/CN102018001010713CN00001092844200APDFZH20190129CN000.PDF"><u>Alternative selection system and alternative selection method for electronic components</u></a>. In <i>China Patent Application CN109284420A</i>, China'
 ---
 
