@@ -6,7 +6,7 @@ date: 2020-12-25
 venue: 'Manned Spaceflight'
 paperurl: ''
 paperurltext: 'Link to CNKI'
-citation: '<b>Li Zihao</b> <a href="https://pridelee.github.io/files/papers/空间科学装置元器件替代关系与数字化表征研究.PDF"><u>Research on Space Science Device Components Substitution Relation and Characterization</u></a>. In <i>Manned Spaceflight</i>'
+citation: '<b>Li Zihao</b> <a href="https://pridelee.github.io/files/papers/Research on Space Science Device Components Substitution Relation and Characterization.PDF"><u>Research on Space Science Device Components Substitution Relation and Characterization</u></a>. In <i>Manned Spaceflight</i>'
 ---
 
 ```
