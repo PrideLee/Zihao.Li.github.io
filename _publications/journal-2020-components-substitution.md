@@ -10,7 +10,7 @@ citation: '<b>Li Zihao</b> <a href="https://pridelee.github.io/files/papers/Rese
 ---
 
 ```
-@InProceedings{Li+:2018,
+@InProceedings{Li+:2020,
   author    = {LI Zihao},
   title     = {Research on Space Science Device Components Substitution Relation and Characterization},
   booktitle = {Manned Spaceflight},
