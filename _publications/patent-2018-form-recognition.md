@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/patent-2018-form-recognition
 date: 2018-12-25
 venue: 'China Patent Application CN109086714A'
-paperurl: 'https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=SCPD&dbname=SCPD2020&filename=CN109284420B&v=gFmqaNDDQyBDKkih47eEjJ21RMmcwVcaDc0AEOXaAiRdiCOll1J1Bgrn917jmm9%25mmd2B'
+paperurl: 'https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=SCPD&dbname=SCPD2019&filename=CN109086714A&v=yYUINZ5N5dLRzx2JM0EfzQ%25mmd2FpRwvgP%25mmd2FYvLQyICRum9Y%25mmd2Fy%25mmd2B0i3DdGs5zo7Df6SOmST'
 paperurltext: 'Link to CNKI'
 citation: '<b>Li Zihao</b> <a href="https://pridelee.github.io/files/papers/CN102018000857609CN00001090867140APDFZH20181225CN001.PDF"><u>Form recognition method, recognition system and computer device</u></a>. In <i>China Patent Application CN109450638A</i>, China'
 ---
