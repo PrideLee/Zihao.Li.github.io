@@ -4,8 +4,8 @@ collection: publications
 permalink: /publication/patent-2019-blockchain
 date: 2019-01-29
 venue: 'China Patent Application CN109450638A'
-paperurl: 'http://pss-system.cnipa.gov.cn/sipopublicsearch/insearch/showViewList.shtml'
-paperurltext: 'Link to CNIPA'
+paperurl: 'https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=SCPD&dbname=SCPD2019&filename=CN109450638A&v=o7sbwUKTu00pk%25mmd2B8K%25mmd2BbH1SxQ2TzAVmMLVllX9n8WU7VToAEbQpAKbDVUx7xZiVGRn'
+paperurltext: 'Link to CNKI'
 citation: '<b>Li Zihao</b> <a href="https://pridelee.github.io/files/papers/CN102018001236595CN00001094506380APDFZH20190308CN00K.PDF"><u>Electronic component data management system and method based on blockchain</u></a>. In <i>China Patent Application CN109450638A</i>, China'
 ---
 
