@@ -81,7 +81,7 @@ author:
   name             : "Zihao Li"
   avatar           : "pl.jpg" #"profile.png"
   bio              : "3th-year M.S. student at The University of Chinese Academic of Science (UCAS)"
-  location         : [Beijing, China](https://www.google.com/maps/d/u/0/viewer?hl=en&ie=UTF8&msa=0&ll=39.979224654008725%2C116.46803799999999&spn=0.192312%2C0.293369&source=embed&mid=1YArJNO294GapT-0NDpTqxx77QEI&z=11)
+  location         : "Beijing, China"
   employer         :
   googlescholar    : 
   email            : "lizihao182@mails.ucas.ac.cn"
@@ -250,7 +250,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
