@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a 3th-year M.S. student in aircraft design at the [Technology and Engineering Center for Space Utilization (CSU), CAS](http://www.csu.cas.cn/) at [The University of Chinese Academic of Science (UCAS)](http://www.ucas.ac.cn/), advised by [Wei Dang](http://people.ucas.ac.cn/~0052921). I am interested in machine learning and data mining as a whole, especially for applying knowledge graph and question-answering methods for product/service recommendation, risk prediction, and decision making support. 
+I am a 3th-year M.S. student in aircraft design at the [University of Chinese Academic of Science (UCAS)](http://www.ucas.ac.cn/), [Technology and Engineering Center for Space Utilization (CSU), CAS](http://www.csu.cas.cn/), advised by [Wei Dang](http://people.ucas.ac.cn/~0052921). I am interested in machine learning and data mining as a whole, especially for applying knowledge graph and question-answering methods for product/service recommendation, risk prediction, and decision making support. 
 
 I love reading, *[The Catcher in the Rye](https://en.wikipedia.org/wiki/The_Catcher_in_the_Rye)* is the greatest masterpiece in my mind. I am crazy about cats, and I am a cat person.
 
