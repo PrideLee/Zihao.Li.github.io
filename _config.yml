@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "Beijing-China"
+locale                   : "[Beijing-China](https://www.google.com/maps/d/u/0/viewer?hl=en&ie=UTF8&msa=0&ll=39.979224654008725%2C116.46803799999999&spn=0.192312%2C0.293369&source=embed&mid=1YArJNO294GapT-0NDpTqxx77QEI&z=11)"
 title                    : "Zihao Li"
 title_separator          : "-"
 name                     : &name "Zihao Li"
