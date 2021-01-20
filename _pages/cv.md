@@ -14,6 +14,7 @@ redirect_from:
 
 * **M.S. in Flight Vehicle Design**, The University of Chinese Academic of Science (UCAS), Center for Space Utilization (CSU), CAS, Sep. 2018-Present
 * **B.S. in Aircraft Manufacturing Engineering**, The North University of Chinal, Sep. 2014-Jul. 2018
+
 ## Academic Experience
 
 * **Technology and Engineering Center for Space Utilization (CSU), CAS**, Beijing, Aug.2017<br />
@@ -25,7 +26,7 @@ Excellent College Students Summer School, Visiting student
 * **Nationl Space Science Center (NSSC), CAS**, Beijing, Aug.2017<br />
 "One Space, One Dream" Excellent College Students Summer School, Visiting student
  
-Internship Experience
+##Internship Experience
 ======
 * **Aviation Industry Corporation of China (AVIC) - Xian Aircraft industry (Group) Company, LTD**, Xi'an, Sep.2017<br />
 Graduation Practice, Aircraft Design Assistance Engineer
