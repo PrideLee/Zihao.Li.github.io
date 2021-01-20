@@ -13,10 +13,7 @@ A wind-pendulum system was designed to controlling four blades' rotate speed to 
 
 ## Demo
 
-<video id="video" controls="" preload="none" poster="https://share.plvideo.cn/front/video/view?vid=a491168bfeeb10853cde2697bcc803f6_a">
-      <source id="mp4" src="https://share.plvideo.cn/front/video/view?vid=a491168bfeeb10853cde2697bcc803f6_a" type="video/mp4">
-      <p>Your user agent does not support the HTML5 Video element.</p>
-</video>
+[![Wind Pendulum Control System](https://res.cloudinary.com/marcomontalbano/image/upload/v1587315555/video_to_markdown/images/youtube--2qqYywttue4-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://share.plvideo.cn/front/video/view?vid=a491168bfeeb10853cde2697bcc803f6_a "Wind Pendulum Control System")
 
 You can click [here](https://github.com/PrideLee/Wind-Pendulum) to review the whole project. 
 
