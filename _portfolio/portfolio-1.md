@@ -14,7 +14,7 @@ A wind-pendulum system was designed to controlling four blades' rotate speed to 
 ## Demo
 
 <video id="video" controls="" preload="none" poster="http://media.w3.org/2010/05/sintel/poster.png">
-      <source id="mp4" src="http://media.w3.org/2010/05/sintel/trailer.mp4" type="video/mp4">
+      <source id="mp4" src="https://share.plvideo.cn/front/video/view?vid=a491168bfeeb10853cde2697bcc803f6_a" type="video/mp4">
       <p>Your user agent does not support the HTML5 Video element.</p>
 </video>
 
