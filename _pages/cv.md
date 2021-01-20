@@ -27,7 +27,7 @@ Excellent College Students Summer School, Visiting student
 "One Space, One Dream" Excellent College Students Summer School, Visiting student
  
 ## Internship Experience
-======
+
 * **Aviation Industry Corporation of China (AVIC) - Xian Aircraft industry (Group) Company, LTD**, Xi'an, Sep.2017<br />
 Graduation Practice, Aircraft Design Assistance Engineer
   
