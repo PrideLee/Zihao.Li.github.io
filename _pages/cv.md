@@ -26,7 +26,7 @@ Excellent College Students Summer School, Visiting student
 * **Nationl Space Science Center (NSSC), CAS**, Beijing, Aug.2017<br />
 "One Space, One Dream" Excellent College Students Summer School, Visiting student
  
-##Internship Experience
+## Internship Experience
 ======
 * **Aviation Industry Corporation of China (AVIC) - Xian Aircraft industry (Group) Company, LTD**, Xi'an, Sep.2017<br />
 Graduation Practice, Aircraft Design Assistance Engineer
