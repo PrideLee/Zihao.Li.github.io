@@ -1,10 +1,7 @@
 ---
 title: "Wind-Pendulum System"
 # excerpt: "Wind-Pendulum system demo<br/><img src='/images/500x300.png'>"
-excerpt: "<video id="video" controls="" preload="none" poster="http://media.w3.org/2010/05/sintel/poster.png">
-      <source id="mp4" src="http://media.w3.org/2010/05/sintel/trailer.mp4" type="video/mp4">
-      <p>Your user agent does not support the HTML5 Video element.</p>
-</video>"
+excerpt: "Wind-Pendulum system demo<br/><video id="video" controls="" preload="none" poster="http://media.w3.org/2010/05/sintel/poster.png"><source id="mp4" src="http://media.w3.org/2010/05/sintel/trailer.mp4" type="video/mp4">"
 collection: portfolio
 ---
 
