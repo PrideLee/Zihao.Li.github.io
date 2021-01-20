@@ -30,7 +30,7 @@ Internship Experience
 * **Aviation Industry Corporation of China (AVIC) - Xian Aircraft industry (Group) Company, LTD**, Xi'an, Sep.2017<br />
 Graduation Practice, Aircraft Design Assistance Engineer
   
-* **[Guoke Saisi Beijing Tech.Co, Ltd.](https://www.cissdata.com/)**, Beijing, Dec.2017-Aug.2018<br />
+* **Guoke Saisi Beijing Tech.Co, Ltd.**, Beijing, Dec.2017-Aug.2018<br />
 Algorithm Engineer
  
 ## Publications & Patents
