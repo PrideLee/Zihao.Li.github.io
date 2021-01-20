@@ -1,7 +1,8 @@
 ---
 title: "Wind-Pendulum System"
-excerpt: "Wind-Pendulum System Demo<br/><img src='/images/wind_pendulum.jpg'>"
-# excerpt: "Wind-Pendulum system demo<br/><video src='http://media.w3.org/2010/05/sintel/trailer.mp4'>"
+# excerpt: "Wind-Pendulum System Demo<br/><img src='/images/wind_pendulum.jpg'>"
+excerpt: 
+[![Wind Pendulum Control System](https://res.cloudinary.com/marcomontalbano/image/upload/v1611121852/video_to_markdown/images/youtube--hDCL2SoWdjA-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/hDCL2SoWdjA "Wind Pendulum Control System")
 collection: portfolio
 ---
 
