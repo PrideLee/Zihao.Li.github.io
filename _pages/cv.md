@@ -109,7 +109,7 @@ Algorithm Engineer
 
 ## Languages
 
-* **English**: IELTS, Preparing
+* **English**: IELTS, 6.5
 * **Chinese**: Native or Bilingual Proficiency
 
 <!--
