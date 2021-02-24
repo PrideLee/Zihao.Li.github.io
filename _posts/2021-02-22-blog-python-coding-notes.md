@@ -1,6 +1,6 @@
 ---
 title: 'Python coding notes to myself'
-date: 2020-09-28
+date: 2021-02-22
 permalink: /posts/2021/02/blog-Python-Coding-Notes/
 tags:
   - Python coding
