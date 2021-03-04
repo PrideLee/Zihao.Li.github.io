@@ -8,9 +8,7 @@ tags:
   - Web Search
 ---
 
-## [Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book/information-retrieval-book.html) notes (Chapter 1 Boolean Retrieval). 
-
-### Summary
+**Summary**
 
 - Information retrieval (IR) is finding material (usually documents) of an unstructured nature (usually text) that satisfies an information need from within large collections (usually stored on computers). 
 -  The main application scenarios of IR include web search; enterprise, institutional, and domain-specific search; and personal information retrieval.
