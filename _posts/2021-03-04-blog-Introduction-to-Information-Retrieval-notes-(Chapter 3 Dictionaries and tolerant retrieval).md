@@ -8,7 +8,7 @@ tags:
   - Spelling correction
 ---
 
-### Summary
+**Summary**
 
 - The vocabulary lookup operation uses a classical data structure called the dictionary and has two broad classes of solutions: hashing and search trees. 
 - There are some issues for search engines that apply hashing for dictionary lookup: 1. It is difficult to find minor variants of a query term because these could be hashed to very different integers; 2. We cannot seek (for instance) all terms beginning with the prefix, like auto-; 3. In a setting (such as the Web), where the size of the vocabulary keeps growing, a hash function designed for current needs may not suffice in a few years’ time.
