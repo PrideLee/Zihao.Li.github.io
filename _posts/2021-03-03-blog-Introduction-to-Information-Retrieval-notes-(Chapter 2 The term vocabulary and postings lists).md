@@ -8,7 +8,7 @@ tags:
   - Web Search
 ---
 
-### Summary
+**Summary**
 
 - There is a trade-off for basic/minimum unit design. If the units get too small, we are likely to miss important passages because terms were distributed over several mini-documents, whereas if units are too large, we tend to get spurious matches, and the relevant information is hard for the user to find. Consequently, it is also the dilemma between precision and recall.
 - The index granularity is also significant for the IR system. The person who is deploying the system must have a good understanding of the document collection, the users, and their likely information needs and usage patterns. 
