@@ -8,8 +8,6 @@ tags:
   - Spelling correction
 ---
 
-## [Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book/information-retrieval-book.html) notes (Chapter 3 Dictionaries and tolerant retrieval). 
-
 ### Summary
 
 - The vocabulary lookup operation uses a classical data structure called the dictionary and has two broad classes of solutions: hashing and search trees. 
