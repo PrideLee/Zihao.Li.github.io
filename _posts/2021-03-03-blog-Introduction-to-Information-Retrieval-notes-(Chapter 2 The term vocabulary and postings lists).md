@@ -8,6 +8,8 @@ tags:
   - Web Search
 ---
 
+You can click [**here**](https://pridelee.github.io/files/blog/Chapter-2-The-term-vocabulary-and-postings-lists.pdf) and [**here**](https://zhuanlan.zhihu.com/p/353915529) to read full blog.
+
 **Summary**
 
 - There is a trade-off for basic/minimum unit design. If the units get too small, we are likely to miss important passages because terms were distributed over several mini-documents, whereas if units are too large, we tend to get spurious matches, and the relevant information is hard for the user to find. Consequently, it is also the dilemma between precision and recall.
@@ -30,5 +32,3 @@ tags:
 - Uses indexes of biword and positional sorts as well as a partial next word index as a halfway house between the first two strategies. Such a strategy allows a typical mixture of web phrase queries to be completed in one-quarter of the time taken by use of a positional index alone while taking up 26% more space than the use of a positional index alone.
 - Suppose the total number of tokens in the document collection $T$, the complexity of a Boolean query is $O(T)$.
 - As for large documents, the required space to store the positional posting is two orders of magnitude to store the postings list. 
-
-You can click [**here**](https://pridelee.github.io/files/blog/Chapter-2-The-term-vocabulary-and-postings-lists.pdf) and [**here**](https://zhuanlan.zhihu.com/p/353915529) to read full blog.
