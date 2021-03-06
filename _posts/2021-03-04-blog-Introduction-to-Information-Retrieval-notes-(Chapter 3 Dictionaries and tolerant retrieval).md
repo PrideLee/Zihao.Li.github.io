@@ -8,6 +8,8 @@ tags:
   - Spelling correction
 ---
 
+You can click [**here**](https://pridelee.github.io/files/blog/Chapter-3-Dictionaries-and-tolerant-retrieval.pdf) and [**here**](https://zhuanlan.zhihu.com/p/354542527) to read full blog.
+
 **Summary**
 
 - The vocabulary lookup operation uses a classical data structure called the dictionary and has two broad classes of solutions: hashing and search trees. 
@@ -22,5 +24,3 @@ tags:
 - Spelling errors do not occur in the first character of the query.
 - Zobel and Dart (1995) proposed that k-gram indexing is very effective for finding candidate mismatches but should be combined with a more fine-grained technique such as edit distance to determine the most likely misspellings.   
 - Gusfield (1997) is a standard reference on string algorithms such as edit distance.
-
-You can click [**here**](https://pridelee.github.io/files/blog/Chapter-3-Dictionaries-and-tolerant-retrieval.pdf) and [**here**](https://zhuanlan.zhihu.com/p/354542527) to read full blog.
