@@ -8,6 +8,8 @@ tags:
   - Web Search
 ---
 
+You can click [**here**](https://pridelee.github.io/files/blog/Chapter1-Boolean-retrieval.pdf) and [**here**](https://zhuanlan.zhihu.com/p/353850769) to read full blog.
+
 **Summary**
 
 - Information retrieval (IR) is finding material (usually documents) of an unstructured nature (usually text) that satisfies an information need from within large collections (usually stored on computers). 
@@ -19,4 +21,3 @@ tags:
 - In the case of $AND$ operator, the complexity of merging the postings list depends on the length of the shorter postings list. Therefore, the more short the smaller postings list, the lesser the time spent.
 - There is a trade-off between $AND$ and $OR$ operation for information retrieval since the $AND$ may increase the accuracy of results while impairing the recall, vise versa.
 
-You can click [**here**](https://pridelee.github.io/files/blog/Chapter1-Boolean-retrieval.pdf) and [**here**](https://zhuanlan.zhihu.com/p/353850769) to read full blog.
