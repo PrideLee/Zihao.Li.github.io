@@ -1,7 +1,7 @@
 ---
 title: 'Effective Python notes (Chapter 8 Robustness and Performance)'
-date: 2021-03-07
-permalink: /posts/2021/03/blog-Functions-Notes-Chapter-07/
+date: 2021-03-09
+permalink: /posts/2021/03/blog-Functions-Notes-Chapter-08/
 tags:
   - Python coding
   - Robustness and Performance
