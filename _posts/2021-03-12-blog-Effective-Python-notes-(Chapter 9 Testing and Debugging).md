@@ -1,6 +1,6 @@
 ---
 title: 'Effective Python notes (Chapter 9 Testing and Debugging)'
-date: 2021-03-09
+date: 2021-03-12
 permalink: /posts/2021/03/blog-Functions-Notes-Chapter-09/
 tags:
   - Python coding
