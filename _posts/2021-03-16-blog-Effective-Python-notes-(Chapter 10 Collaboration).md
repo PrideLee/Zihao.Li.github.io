@@ -1,6 +1,6 @@
 ---
 title: 'Effective Python notes (Chapter 10 Collaboration)'
-date: 2021-03-12
+date: 2021-03-16
 permalink: /posts/2021/03/blog-Functions-Notes-Chapter-10/
 tags:
   - Python coding
