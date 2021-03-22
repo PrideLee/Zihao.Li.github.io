@@ -1,14 +1,14 @@
 ---
-title: 'Introduction to Information Retrieval Notes (Chapter 3 Dictionaries and tolerant retrieval)'
-date: 2021-03-04
-permalink: /posts/2021/03/blog-Information-Retrieval-Notes-Chapter-03/
+title: 'Introduction to Information Retrieval Notes (Chapter 9 Relevance feedback and query expansion)'
+date: 2021-03-22
+permalink: /posts/2021/03/blog-Information-Retrieval-Notes-Chapter-09/
 tags:
   - Information Retrieval
-  - Binary Tree
-  - Spelling correction
+  - Relevance feedback
+  - Query expansion
 ---
 
-You can click [**here**](https://pridelee.github.io/files/blog/Chapter-3-Dictionaries-and-tolerant-retrieval.pdf) and [**here**](https://zhuanlan.zhihu.com/p/358986119) to read complete blog.
+You can click [**here**](https://pridelee.github.io/files/blog/Chapter-9-Relevance-feedback-and-query-expansion.pdf) and [**here**](https://zhuanlan.zhihu.com/p/358986119) to read complete blog.
 
 **Summary**
 
