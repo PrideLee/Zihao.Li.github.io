@@ -1,6 +1,6 @@
 ---
 title: 'Problem Solving with Algorithms and Data Structures Using Python (Chapter 5 Sorting and Searching)'
-date: 2021-06-01
+date: 2021-04-01
 permalink: /posts/2021/04/blog-Problem-Solving-with-Algorithms-and-Data-Structures-Using-Python-Chapter-05/
 tags:
   - Sorting
