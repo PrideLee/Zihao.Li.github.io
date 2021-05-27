@@ -15,4 +15,4 @@ You can click [**here**](https://pridelee.github.io/files/blog/Chapter-19-Web-se
 - Notably, in several studies IN and OUT are roughly equal in size, whereas SCC is somewhat larger; most web pages fall into one of these three sets.
 - A range of studies has concluded that the average number of keywords in a web search is somewhere between two and three.
 - Google identified two principles that helped it to grow at the expense of its competitors: (i) A focus on relevance, specifically precision rather than recall in the first few results; and (ii) a user experience that is lightweight, meaning that both the search query page and the search results page are uncluttered and almost entirely textual, with very few graphical elements. 
--  The Web contains multiple copies of the same content. By some estimates, as many as 40% of the pages on the Web are duplicates of other pages. 
+- The Web contains multiple copies of the same content. By some estimates, as many as 40% of the pages on the Web are duplicates of other pages. 
