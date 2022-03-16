@@ -1,6 +1,6 @@
 ---
 title: 'RepeatNet A Pepeat Aware Neural Recommendation Machine for Session-Based Recommendation'
-date: 2021-03-10
+date: 2022-03-11
 permalink: /posts/2022/03/blog-A-Pepeat-Aware-Neural-Recommendation-Machine-for-Session-Based-Recommendation/
 tags:
   - Session-based Recommendation
