@@ -6,11 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "Beijing-China"
+locale                   : "Sydney-Australia"
 title                    : "Zihao Li"
 title_separator          : "-"
 name                     : &name "Zihao Li"
-description              : &description "3th-year M.S. student at The University of Chinese Academic of Science (UCAS)"
+description              : &description "Ph.D. student at University of Technology Sydney (UTS)"
 url                      : https://PrideLee.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : '' # the subpath of your site, e.g. "/blog"
 repository               : "PrideLee/PrideLee.github.io"
@@ -80,11 +80,11 @@ analytics:
 author:
   name             : "Zihao Li"
   avatar           : "yading.png" #"profile.png"
-  bio              : "3th-year M.S. student at The University of Chinese Academic of Science (UCAS)"
-  location         : "Beijing, China"
+  bio              : " Ph.D. student at University of Technology Sydney (UTS)"
+  location         : "Sydney, Australia"
   employer         :
   googlescholar    : 
-  email            : "lizihao182@mails.ucas.ac.cn"
+  email            : "Zihao.Li@student.uts.edu.au"
   uri              :
   bitbucket        :
   codepen          :
