@@ -1,16 +1,16 @@
 ---
 permalink: /
-title: "Zihao Li - The University of Chinese Academy of Sciences"
-excerpt: "Zihao Li - The University of Chinese Academy of Sciences"
+title: "Zihao Li - University of Technology Sydney"
+excerpt: "Zihao Li - University of Technology Sydney"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a 3th-year M.S. student in aircraft design at the [University of Chinese Academic of Science (UCAS)](http://www.ucas.ac.cn/), [Technology and Engineering Center for Space Utilization (CSU), CAS](http://www.csu.cas.cn/), advised by [Wei Dang](http://people.ucas.ac.cn/~0052921). I am interested in machine learning and data mining as a whole, especially for applying knowledge graph and question-answering methods for product/service recommendation, risk prediction, and decision making support. 
+I am a PhD student in computer science at the [Faculty of Engineering and Information Technology (FEIT)](https://www.uts.edu.au/about/faculty-engineering-and-information-technology), [University of Technology Sydney (UTS)](https://www.uts.edu.au/), supervised by [Dr. Xianzhi WANG](https://profiles.uts.edu.au/XIANZHI.WANG) and [Prof Guandong XU](https://sites.google.com/view/guandong-xu). I am interested in recommendation system as a whole, especially for session-based/sequential recommendation with graph neural networks. 
 
-*[The Catcher in the Rye](https://en.wikipedia.org/wiki/The_Catcher_in_the_Rye)* is significant to me, and *[Dream of the Red Chamber](https://en.wikipedia.org/wiki/Dream_of_the_Red_Chamber)* is my favorite novel. I am crazy about cats, and I am a cat person.
+*The Catcher in the Rye* had a great impact on me, and *[Dream of the Red Chamber](https://en.wikipedia.org/wiki/Dream_of_the_Red_Chamber)* is my favorite novel. I have an adorable cat, his name is [Dobby]().
 
 
 
