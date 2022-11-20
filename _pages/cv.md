@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Z Li-M.S. of University of Chineses Academy of Science"
+title: "Zihao Li-M.S. of University of Chineses Academy of Science"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -12,7 +12,8 @@ redirect_from:
 
 ## Education
 
-* **M.S. in Flight Vehicle Design**, The University of Chinese Academic of Science (UCAS), Center for Space Utilization (CSU), CAS, Sep. 2018-Present
+* **Ph.D. in Software Engineering, Information System**, University of Technology Sydney (UTS), Mar. 2022-  
+* **M.S. in Flight Vehicle Design**, The University of Chinese Academic of Science (UCAS), Center for Space Utilization (CSU), CAS, Sep. 2018-Jul. 2021
 * **B.S. in Aircraft Manufacturing Engineering**, The North University of Chinal, Sep. 2014-Jul. 2018
 
 ## Academic Experience
@@ -128,5 +129,5 @@ Publications
   {% endfor %}</ul>
 -->
 
-**CV can be downloaded in <a href="https://pridelee.github.io/files/cv/resume_cv.pdf"><u>here</u></a>.**
+**CV can be downloaded in <a href="https://Zihao.Li.github.io/files/cv/resume_cv.pdf"><u>here</u></a>.**
 
