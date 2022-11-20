@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "Sydney-Australia"
-title                    : "Zihao Li"
+title                    : "Z Li"
 title_separator          : "-"
-name                     : &name "Zihao Li"
+name                     : &name "Z Li"
 description              : &description "Ph.D. student at University of Technology Sydney (UTS)"
 url                      : https://PrideLee.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : '' # the subpath of your site, e.g. "/blog"
@@ -78,7 +78,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zihao Li"
+  name             : "Z Li"
   avatar           : "yading.png" #"profile.png"
   bio              : " Ph.D. student at University of Technology Sydney (UTS)"
   location         : "Sydney, Australia"
