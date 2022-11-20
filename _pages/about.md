@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Z Li - University of Technology Sydney"
-excerpt: "Z Li - University of Technology Sydney"
+title: "Zihao Li - University of Technology Sydney"
+excerpt: "Zihao Li - University of Technology Sydney"
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,7 +10,7 @@ redirect_from:
 
 I am a PhD student in computer science at the [Faculty of Engineering and Information Technology (FEIT)](https://www.uts.edu.au/about/faculty-engineering-and-information-technology), [University of Technology Sydney (UTS)](https://www.uts.edu.au/), supervised by [Dr. Xianzhi WANG](https://profiles.uts.edu.au/XIANZHI.WANG) and [Prof Guandong XU](https://sites.google.com/view/guandong-xu). I am interested in recommendation system as a whole, especially for session-based/sequential recommendation with graph neural networks. 
 
-*The Catcher in the Rye* had a great impact on me, and *[Dream of the Red Chamber](https://en.wikipedia.org/wiki/Dream_of_the_Red_Chamber)* is my favorite novel. I have an adorable cat, his name is [Dobby](https://github.com/PrideLee/PrideLee.github.io/blob/master/images/Dobby.jpg).
+*The Catcher in the Rye* had a great impact on me, and *[Dream of the Red Chamber](https://en.wikipedia.org/wiki/Dream_of_the_Red_Chamber)* is my favorite novel. I have an adorable cat, his name is [Dobby](https://github.com/PrideLee/Zihao.Li.github.io/blob/master/images/Dobby.jpg).
 
 
 
