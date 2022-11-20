@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Zihao Li - University of Technology Sydney"
-excerpt: "Zihao Li - University of Technology Sydney"
+title: "Z Li - University of Technology Sydney"
+excerpt: "Z Li - University of Technology Sydney"
 author_profile: true
 redirect_from: 
   - /about/
