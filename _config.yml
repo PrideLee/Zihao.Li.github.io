@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "Sydney-Australia"
-title                    : "Z Li"
+title                    : "Zihao Li"
 title_separator          : "-"
-name                     : &name "Z Li"
+name                     : &name "Zihao Li"
 description              : &description "Ph.D. student at University of Technology Sydney (UTS)"
 url                      : https://PrideLee.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : '' # the subpath of your site, e.g. "/blog"
-repository               : "PrideLee/PrideLee.github.io"
+repository               : "PrideLee/Zihao.Li.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -78,7 +78,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Z Li"
+  name             : "Zihao Li"
   avatar           : "yading.png" #"profile.png"
   bio              : " Ph.D. student at University of Technology Sydney (UTS)"
   location         : "Sydney, Australia"
@@ -250,7 +250,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Australia/Sydney # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
